@@ -4,13 +4,13 @@
 This is a responsive web application built with Flask that simulates an online store. The project includes user authentication (sign-in and sign-up), product catalog browsing, shopping cart management, and an admin dashboard for adding or deleting products. The application also supports uploading images for products and categories.
 
 ## TEAM
--shahd Nasser	42210164
--Hussein mohamed	42310560
--Weam gamal	42210246
--Mennat-allah ahmed	42210214
--Mariam Moustafa	42210179
--Ahmed Osman	42210168
--Mohamed Essam	42310503
+- shahd Nasser	42210164
+- Hussein mohamed	42310560
+- Weam gamal	42210246
+- Mennat-allah ahmed	42210214
+- Mariam Moustafa	42210179
+- Ahmed Osman	42210168
+- Mohamed Essam	42310503
 ## Features
 
 - **User Authentication:**
